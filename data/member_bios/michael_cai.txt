@@ -3,7 +3,7 @@ Michael Cai
 </div>
 
 <div class='about-roles'>
-Engineer
+Head Engineer / Robot Supplier
 </div>
 
 <div class='about-desc'>
